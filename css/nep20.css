@@ -1,0 +1,54 @@
+body {
+  background: #fff;
+  }
+
+#fh5co-nav ul li a {
+ color: #808080;
+}
+
+#fh5co-nav ul li.fh5co-active a {
+    color: #222;
+    border-bottom: #808080 2px solid;
+}
+
+#fh5co-nav ul li a:hover, #fh5co-nav ul li a:focus, #fh5co-nav ul li a:active {
+    color: #222;
+    border-bottom: #222 2px solid;
+}
+
+#fh5co-header h1 {
+    color: #808080;
+}
+
+#fh5co-header h2 {
+    color: #808080;
+}
+
+a {
+    border-bottom: 2px solid #eee;
+}
+
+a:hover, a:active, a:focus {
+    color: #222;
+    border-bottom: 2px solid #ccc;
+}
+
+.fh5co-project .fh5co-text h2 {
+    color: #222;
+}
+
+.fh5co-project .fh5co-text p {
+    color: #808080;
+}
+
+small, .small {
+    color: #808080;
+}
+
+.fh5co-project:before {
+    background: #eee;
+}
+
+#fh5co-footer:before {
+    background: #eee;
+}
